@@ -51,4 +51,4 @@ dotnet test
 Voer de commando ```git submodule update --recursive --remote``` uit in het project dat je wilt deployen om te zorgen dat hij de laatste versie heeft. 
 
 Voor deze repository is veder geen deployment nodig deze wordt mee gedeployed met de projecten
- ![Festispec.Api](https://github.com/SOQSoft/Festispec.Api), ![Festispec.App](https://github.com/SOQSoft/Festispec.App),  ![Festispec.App](https://github.com/SOQSoft/Festispec.Web)
+ [Festispec.Api](https://github.com/SOQSoft/Festispec.Api), [Festispec.App](https://github.com/SOQSoft/Festispec.App), [Festispec.Web](https://github.com/SOQSoft/Festispec.Web)
