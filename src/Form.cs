@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 
 namespace Festispec.Database.Models
 {
     public partial class Form
     {       
-		[Key]
         public int Id { get; set; }
         public string Name { get; set; }
         public bool IsTemplate { get; set; }
